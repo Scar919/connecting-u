@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "express": "^4.18.2",
+    "moment": "^2.29.4",
     "mongoose": "^7.1.1"
   },
   "scripts": {
@@ -10,7 +11,6 @@
   "description": "",
   "version": "1.0.0",
   "main": "server.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Scar919/connecting-u.git"
