@@ -8,6 +8,8 @@ The motivation behind this project was to build an API for a social network web 
 
 [AddFriendDemo2](https://drive.google.com/file/d/1bUEckCX_Hp8fShRhOHYjtf4NWsmlXEAu/view)
 
+![IMG](./assests/IMG.png)
+
 
 ## Installation
 In order to install you would do the folllwoing:
