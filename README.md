@@ -5,7 +5,8 @@
 The motivation behind this project was to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
 
 [Demo1](https://drive.google.com/file/d/1eGaagmVtAF937pW6uKOlvGCxlTlEOAOJ/view)
-[Demo2](ttps://drive.google.com/file/d/1bUEckCX_Hp8fShRhOHYjtf4NWsmlXEAu/view)
+
+[AddFriendDemo2](https://drive.google.com/file/d/1bUEckCX_Hp8fShRhOHYjtf4NWsmlXEAu/view)
 
 
 ## Installation
